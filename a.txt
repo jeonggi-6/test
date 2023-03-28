@@ -3,3 +3,6 @@ hi im main
 im different with second
 
 im origin/HEAD
+
+im original master
+
