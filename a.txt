@@ -7,3 +7,5 @@ and im second
 
 im origin/second
 >>>>>>> 919c0ba27c3800fecb9fd968518e115dfad77a26
+
+i want to git push without error
