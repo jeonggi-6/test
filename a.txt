@@ -6,3 +6,12 @@ im origin/HEAD
 
 im original master
 
+and im second
+
+im origin/second
+
+i want to git push without error
+
+and im different with master
+
+set upstream with origin/newbranch
