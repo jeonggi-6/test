@@ -17,3 +17,5 @@ and im different with master
 set upstream with origin/newbranch
 
 im still master
+
+im origin/master
